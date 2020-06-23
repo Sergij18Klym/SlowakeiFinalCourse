@@ -1,0 +1,49 @@
+﻿The first 20 most common distinct words:
+-----------------------------------------
+Word			Occurrence
+-----------------------------------------
+the			3311
+to			1845
+and			1803
+a			1578
+of			1242
+Harry			1212
+was			1178
+he			1032
+in			933
+his			896
+it			804
+said			793
+you			734
+had			697
+I			651
+on			617
+at			581
+that			580
+him			495
+He			493
+
+The first 20 proper names in alphabetic order:
+-----------------------------------------
+Word			Occurrence
+-----------------------------------------
+AAAAAAAAAARGH		1
+AAAARGH			1
+ALBUS			2
+ALLEY			1
+Aaah			1
+Aargh			1
+Abbott			1
+Absolutely		2
+According		1
+Adalbert		1
+Adrian			2
+Africa			1
+African			1
+Agrippa			3
+Ah			11
+Aha			1
+Ahem			1
+Ahern			1
+Alas			2
+Alberic			1
